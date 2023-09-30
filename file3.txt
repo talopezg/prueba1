@@ -1,3 +1,7 @@
 Te amo mucho mucho
 
+<<<<<<< HEAD
 A veces >:c
+=======
+Siempre :3
+>>>>>>> camvio
